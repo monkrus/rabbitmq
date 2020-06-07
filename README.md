@@ -14,17 +14,19 @@
 Start Docker on you machine.
 Join Windows Insider Program if you are running a Win 10 Home edition.
 
-Install RabbitMQ `docker run -it — rm — name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management`
-Goto             `http://localhost:15672/`
-Test             `go run main.go` and `go run consumer.go`
+Install RabbitMQ  docker run -it — rm — name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3-management
+Goto              http://localhost:15672/
+Test              go run main.go` and `go run consumer.go
 
 ```
 
 ## Author
 👤 ** TutorialEdge **
 
+
 ## Reviewer
 👤 ** monkrus **
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
